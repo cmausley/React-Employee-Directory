@@ -2,7 +2,7 @@
 
 ## Description
 
-For this project, I created a employee directory with React. This assignment will required me to break up my application's UI into components, manage component state, and respond to user events.
+For this project, I created a employee directory with React. This assignment required me to break up my application's UI into components, manage component state, and respond to user events.
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
