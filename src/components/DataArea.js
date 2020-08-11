@@ -82,6 +82,7 @@ const DataArea = () => {
     const filteredList = developerState.users.filter(item => {
       let values = item.name.first.toLowerCase() + " " + item.name.last.toLowerCase();
       console.log(filter, values)
+
     if(values.indexOf(filter.toLowerCase()) !== -1){
       return item
     };
