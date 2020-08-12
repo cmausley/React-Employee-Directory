@@ -30,7 +30,7 @@ View the deployed application via Heroku [here.](https://react-directory-ausley.
 
 View a brief demo of the application [here:](https://youtu.be/mBUGKUbnmNU)
 
-![](/react1.jpg)
+![Example](./react1.JPG)
 
 ## Technologies
 * HTML
