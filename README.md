@@ -19,14 +19,14 @@ The user can also sort the employees by name and date of birth.
 * [Questions](#questions)
 
 ## Usage
-Visit the deployed Heroku link here:  
+Visit the deployed Heroku link [here.](https://react-directory-ausley.herokuapp.com/)
 
 In order to filter employees by name, type a name into the search bar.
 
 In order to sort the employee list by DOB, click on that category.
 
 ## Finished Product
-View the deployed application via Heroku here: 
+View the deployed application via Heroku [here.](https://react-directory-ausley.herokuapp.com/)
 
 View a brief demo of the application here: 
 
