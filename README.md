@@ -28,7 +28,7 @@ In order to sort the employee list by DOB, click on that category.
 ## Finished Product
 View the deployed application via Heroku [here.](https://react-directory-ausley.herokuapp.com/)
 
-View a brief demo of the application here: 
+View a brief demo of the application [here:](https://youtu.be/mBUGKUbnmNU)
 
 ![Sample Image 1]()
 ![Sample Image 2]()
